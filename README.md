@@ -1,2 +1,2 @@
 ﻿# flight-price-prediction
-my video = https://drive.google.com/file/d/152FAXSrBNs6FBgx9ZH04UWEd0r2AY8QG/view?usp=sharing
+my video = https://drive.google.com/file/d/1yctIDxSpmk3Iq02bphsh10UapiEM7HK0/view?usp=sharing
